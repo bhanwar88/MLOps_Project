@@ -6,7 +6,7 @@
 ## Running the Code
 
 1. Clone the project
-   * `git clone git@github.com:ashmibanerjee/fastapi-backend.git`
+   * `git clone git@github.com:bhanwar88/MLOps_Project.git`
    * `cd fastapi-backend`
 2. Create virtual environment
    * `virtualenv venv`
